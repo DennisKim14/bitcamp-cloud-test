@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 aaaa
 xx
+=======
+aaaaokok
+yyyyy
+>>>>>>> b1
